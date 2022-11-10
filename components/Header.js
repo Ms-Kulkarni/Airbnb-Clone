@@ -7,11 +7,11 @@ function Header() {
       {/* left header */}
       <div className="relative flex items-center h-10 cursor-pointer my-auto">
       <Image
-          src="https://links.papareact.com/qd3 "
-          layout='fill'
-          objectFit='contain'
-          objectPosition='left'
-          alt=''
+          src='https://links.papareact.com/qd3'
+          layout="fill"
+          objectFit="contain"
+          objectPosition="left"
+          alt=""
         />
       </div>
 
